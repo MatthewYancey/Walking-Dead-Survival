@@ -1,0 +1,158 @@
+name,gender,hair,age,ethnicity,status,series lifespan,start_episode,end_episode,series_age,season_birth,episode_name
+Rick Grimes,male,dark brown (greying),40,white,alive,"""days gone bye"" to present",days gone bye,present,83.0,1.0,days gone bye
+Carl Grimes,male,brown,10,white,alive,"""days gone bye"" to present",days gone bye,present,83.0,1.0,days gone bye
+Judith Grimes,female,honey blonde,0,white,alive,"""killer within"" to present",killer within,present,61.0,3.0,killer within
+Lori Grimes,female,brown,30,white,dead,"""days gone bye"" to ""killer within""",days gone bye,killer within,23.0,1.0,days gone bye
+Shane Walsh,male,black,30,white,dead,"""days gone bye"" to ""better angels""",days gone bye,better angels,18.0,1.0,days gone bye
+Morgan Jones,male,black,40,black,alive,"""days gone bye"" to present",days gone bye,present,83.0,1.0,days gone bye
+Duane Jones,male,black,10,black,undead,"""days gone bye""",days gone bye,days gone bye,1.0,1.0,days gone bye
+Glenn Rhee,male,black,20,asian,alive,"""days gone bye"" to present",days gone bye,present,83.0,1.0,days gone bye
+Theodore Douglas,male,black,30,black,dead,"""guts"" to ""killer within""",guts,killer within,22.0,1.0,guts
+Dale Horvath,male,white/gray,60,white,dead,"""days gone bye"" to ""judge, jury, executioner""",days gone bye,"judge, jury, executioner",17.0,1.0,days gone bye
+Jacqui,female,black,40,black,dead,"""guts"" to ""ts-19""",guts,ts-19,5.0,1.0,guts
+Jim,male,dark brown,40,white,undead,"""guts"" to ""wildfire""",guts,wildfire,4.0,1.0,guts
+Carol Peletier,female,gray,40,white,alive,"""tell it to the frogs"" to present",tell it to the frogs,present,81.0,1.0,tell it to the frogs
+Sophia Peletier,female,strawberry blonde,10,white,dead,"""tell it to the frogs"" to ""what lies ahead""",tell it to the frogs,what lies ahead,5.0,1.0,tell it to the frogs
+Ed Peletier,male,gray,40,white,dead,"""tell it to the frogs"" to ""vatos""",tell it to the frogs,vatos,2.0,1.0,tell it to the frogs
+Daryl Dixon,male,brown,40,white,alive,"""tell it to the frogs"" to present",tell it to the frogs,present,81.0,1.0,tell it to the frogs
+Merle Dixon,male,brown  (greying),50,white,dead,"""guts"" to ""this sorrowful life""",guts,this sorrowful life,33.0,1.0,guts
+Andrea,female,blonde,30,white,dead,"""guts"" to ""welcome to the tombs""",guts,welcome to the tombs,34.0,1.0,guts
+Amy,female,blonde,20,white,dead,"""days gone bye"" to ""vatos""",days gone bye,vatos,4.0,1.0,days gone bye
+Edwin Jenner,male,blond,40,white,dead,"""wildfire"" to ""ts-19""",wildfire,ts-19,2.0,1.0,wildfire
+Maggie Greene,female,dark brown,20,white,alive,"""bloodletting"" to present",bloodletting,present,76.0,2.0,bloodletting
+Beth Greene,female,blonde,10,white,dead,"""bloodletting"" to ""coda""",bloodletting,coda,52.0,2.0,bloodletting
+Hershel Greene,male,white,70,white,dead,"""bloodletting"" to ""too far gone""",bloodletting,too far gone,36.0,2.0,bloodletting
+Patricia,female,dirty blonde,40,white,dead,"""bloodletting"" to ""beside the dying fire""",bloodletting,beside the dying fire,12.0,2.0,bloodletting
+Jimmy,male,brown,20,white,dead,"""bloodletting"" to ""beside the dying fire""",bloodletting,beside the dying fire,12.0,2.0,bloodletting
+Randall Culver,male,brown,20,white,dead,"""triggerfinger"" to ""better angels""",triggerfinger,better angels,4.0,2.0,triggerfinger
+Tony,male,gray,30,white,dead,"""nebraska"" to ""nebraska""",nebraska,nebraska,1.0,2.0,nebraska
+Michonne,female,brown,30,black,alive,"""beside the dying fire"" to present",beside the dying fire,present,65.0,2.0,beside the dying fire
+Axel,male,blond,40,white,dead,"""seed"" to ""home""",seed,home,10.0,3.0,seed
+Oscar,male,black,30,black,dead,"""seed"" to ""made to suffer""",seed,made to suffer,8.0,3.0,seed
+Andrew,male,black/brown,20,black,dead,"""seed"" to ""killer within""",seed,killer within,4.0,3.0,seed
+Tomas,male,black,30,hispanic,dead,"""seed"" to ""sick""",seed,sick,2.0,3.0,seed
+Big Tiny,male,black,30,black,dead,"""seed"" to ""sick""",seed,sick,2.0,3.0,seed
+Caesar Martinez,male,black,30,hispanic,dead,"""walk with me"" to ""dead weight""",walk with me,dead weight,21.0,3.0,walk with me
+Shumpert,male,black,30,black,dead,"""walk with me"" to ""welcome to the tombs""",walk with me,welcome to the tombs,14.0,3.0,walk with me
+Mr. Jacobson,male,white,50,black,dead,"""killer within"" to ""internment""",killer within,internment,18.0,3.0,killer within
+Karen,female,dark brown,30,white,dead,"""the suicide king"" to ""infected""",the suicide king,infected,10.0,3.0,the suicide king
+Thomas,male,brown,20,white,dead,"""30 days without an accident"" to ""infected""",30 days without an accident,infected,2.0,4.0,30 days without an accident
+Ms. McLeod,female,dark brown,80,hispanic,dead,"""made to suffer"" to ""welcome to the tombs""",made to suffer,welcome to the tombs,9.0,3.0,made to suffer
+Milton Mamet,male,dark blond,30,white,dead,"""walk with me"" to ""welcome to the tombs""",walk with me,welcome to the tombs,14.0,3.0,walk with me
+Dr. Stevens,female,black,40,black,dead,"""walk with me"" to ""made to suffer",walk with me,made to suffer,6.0,3.0,walk with me
+Gloria,female,brown,20,white,dead,"""walk with me"" to ""the suicide king""",walk with me,the suicide king,7.0,3.0,walk with me
+Eric,male,brown,40,white,dead,"""walk with me"" to ""welcome to the tombs""",walk with me,welcome to the tombs,14.0,3.0,walk with me
+Paul,male,black,40,black,dead,"""the suicide king"" to ""welcome to the tombs""",the suicide king,welcome to the tombs,8.0,3.0,the suicide king
+Haley,female,brown,20,white,dead,"""hounded"" to ""the suicide king""",hounded,the suicide king,4.0,3.0,hounded
+Crowley,male,dark brown,30,white,dead,"""walk with me"" to ""hounded""",walk with me,hounded,4.0,3.0,walk with me
+Philip Blake,male,graying brown,40,white,dead,"""walk with me"" to ""too far gone""",walk with me,too far gone,22.0,3.0,walk with me
+Richard Foster,male,gray,50,white,dead,"""walk with me"" to ""the suicide king""",walk with me,the suicide king,7.0,3.0,walk with me
+Mrs. Foster,female,brown,30,white,dead,"""walk with me"" to ""say the word""",walk with me,say the word,3.0,3.0,walk with me
+Sasha Williams,female,black,30,black,alive,"""made to suffer"" to present",made to suffer,present,57.0,3.0,made to suffer
+Tyreese Williams,male,black,30,black,dead,"""made to suffer"" to ""what happened and what's going on""",made to suffer,what happened and what's going on,34.0,3.0,made to suffer
+Allen,male,brown,40,white,dead,"""made to suffer"" to ""welcome to the tombs""",made to suffer,welcome to the tombs,9.0,3.0,made to suffer
+Ben,male,black,20,white,dead,"""made to suffer"" to ""this sorrowful life""",made to suffer,this sorrowful life,8.0,3.0,made to suffer
+Bob Stookey,male,black,30,black,dead,"""30 days without an accident"" to ""four walls and a roof""",30 days without an accident,four walls and a roof,19.0,4.0,30 days without an accident
+Molly,female,brown,10,white,dead,"""30 days without an accident"" to ""too far gone""",30 days without an accident,too far gone,8.0,4.0,30 days without an accident
+Julio,male,black,30,hispanic,dead,"""internment"" to ""too far gone""",internment,too far gone,4.0,4.0,internment
+Henry,male,red,20,white,dead,"""30 days without an accident"" to ""internment""",30 days without an accident,internment,5.0,4.0,30 days without an accident
+Noris,male,brown,40,white,dead,"""infected"" to ""internment""",infected,internment,4.0,4.0,infected
+Caleb Subramanian,male,black,30,indian,dead,"""30 days without an accident"" to ""internment""",30 days without an accident,internment,5.0,4.0,30 days without an accident
+David,male,brown,30,white,dead,"""30 days without an accident"" to ""infected""",30 days without an accident,infected,2.0,4.0,30 days without an accident
+Chloe,female,brown,20,white,dead,"""30 days without an accident"" to ""infected""",30 days without an accident,infected,2.0,4.0,30 days without an accident
+Mika Samuels,female,blonde,10,white,dead,"""30 days without an accident"" to ""the grove""",30 days without an accident,the grove,14.0,4.0,30 days without an accident
+Ryan Samuels,male,brown,40,white,dead,"""30 days without an accident"" to ""infected""",30 days without an accident,infected,2.0,4.0,30 days without an accident
+Sam,male,blond,20,white,dead,"""indifference"" to ""no sanctuary""",indifference,no sanctuary,14.0,4.0,indifference
+Tara Chambler,female,dark brown,20,white,alive,"""live bait"" to present",live bait,present,43.0,4.0,live bait
+Lilly Chambler,female,brown,30,white,dead,"""live bait"" to ""too far gone""",live bait,too far gone,3.0,4.0,live bait
+Meghan Chambler,female,blonde,10,white,dead,"""live bait"" to ""too far gone""",live bait,too far gone,3.0,4.0,live bait
+Alisha,female,brown,30,white,dead,"""dead weight"" to ""too far gone""",dead weight,too far gone,2.0,4.0,dead weight
+Ross,male,brown,40,white,dead,"""dead weight"" to ""too far gone""",dead weight,too far gone,2.0,4.0,dead weight
+Mitch Dolgen,male,brown,40,white,dead,"""dead weight"" to ""too far gone""",dead weight,too far gone,2.0,4.0,dead weight
+Eugene Porter,male,dark brown,30,white,alive,"""inmates"" to present",inmates,present,39.0,4.0,inmates
+Rosita Espinosa,female,black,20,hispanic,alive,"""inmates"" to present",inmates,present,39.0,4.0,inmates
+Abraham Ford,male,red,50,white,alive,"""inmates"" to present",inmates,present,39.0,4.0,inmates
+Dan,male,brown,40,white,dead,"""alone"" to ""a""",alone,a,4.0,4.0,alone
+Billy,male,brown,30,white,dead,"""alone"" to ""a""",alone,a,4.0,4.0,alone
+Harley,male,grey,40,white,dead,"""claimed"" to ""a""",claimed,a,6.0,4.0,claimed
+Tony,male,black,30,black,dead,"""claimed"" to ""a""",claimed,a,6.0,4.0,claimed
+Joe,male,gray,50,white,dead,"""claimed"" to ""a""",claimed,a,6.0,4.0,claimed
+Len,male,brown,30,white,dead,"""claimed"" to ""us""",claimed,us,5.0,4.0,claimed
+Martin,male,black,20,white,dead,"""no sanctuary"" to ""four walls and a roof""",no sanctuary,four walls and a roof,3.0,5.0,no sanctuary
+Greg,male,dark brown,30,white,dead,"""strangers"" to  ""four walls and a roof""",strangers,four walls and a roof,2.0,5.0,strangers
+Theresa,female,black,30,white,dead,"""strangers"" to ""four walls and a roof""",strangers,four walls and a roof,2.0,5.0,strangers
+Albert,male,dark brown,20,white,dead,"""strangers"" to ""four walls and a roof""",strangers,four walls and a roof,2.0,5.0,strangers
+Mike,male,brown,30,white,dead,"""strangers"" to ""four walls and a roof""",strangers,four walls and a roof,2.0,5.0,strangers
+Gareth,male,brown,20,white,dead,"""a"" to ""four walls and a roof""",a,four walls and a roof,4.0,4.0,a
+Mary B.,female,auburn,50,white,dead,"""us"" to ""no sanctuary""",us,no sanctuary,3.0,4.0,us
+Gabriel Stokes,male,black,40,black,alive,"""strangers"" to present",strangers,present,31.0,5.0,strangers
+Dawn Lerner,female,dark brown,30,white,dead,"""slabtown"" to ""coda""",slabtown,coda,5.0,5.0,slabtown
+O'Donnell,male,brown,40,white,dead,"""slabtown"" to ""coda""",slabtown,coda,5.0,5.0,slabtown
+Bob Lamson,male,bald,30,hispanic,dead,"""crossed"" to ""coda""",crossed,coda,2.0,5.0,crossed
+Eric Raleigh,male,auburn,30,white,alive,"""the distance"" to present",the distance,present,22.0,5.0,the distance
+Enid,female,brown,20,white,alive,"""remember"" to present",remember,present,21.0,5.0,remember
+Olivia,female,dark brown,30,white,alive,"""remember"" to present",remember,present,21.0,5.0,remember
+Jake,male,dirty blonde,20,white,alive,"""remember"" to present",remember,present,21.0,5.0,remember
+Tobin,male,brown,40,white,alive,"""forget"" to present",forget,present,20.0,5.0,forget
+Kent,male,dark brown,40,white,alive,"""forget"" to present",forget,present,20.0,5.0,forget
+Barbara,female,auburn,30,white,alive,"""forget"" to present",forget,present,20.0,5.0,forget
+Bruce,male,brown,40,white,alive,"""spend"" to present",spend,present,19.0,5.0,spend
+Francine,female,dark brown,30,white,alive,"""spend"" to present",spend,present,19.0,5.0,spend
+Heath,male,brown,20,black,alive,"""first time again"" to present",first time again,present,16.0,6.0,first time again
+Scott,male,black,30,black,alive,"""first time again"" to present",first time again,present,16.0,6.0,first time again
+Anna,female,brown,40,white,alive,"""now"" to present",now,present,12.0,6.0,now
+Aaron,male,brown,30,white,alive,"""them"" to present",them,present,23.0,5.0,them
+Denise Cloyd,female,dirty blonde,30,white,dead,"""jss"" to ""twice as far""",jss,twice as far,13.0,6.0,jss
+Tommy,male,blonde,30,white,dead,"""forget"" to ""thank you""",forget,thank you,7.0,5.0,forget
+Annie,female,brown,20,white,dead,"""first time again"" to ""thank you""",first time again,thank you,3.0,6.0,first time again
+Sturgess,male,brown,20,white,dead,"""first time again"" to ""thank you""",first time again,thank you,3.0,6.0,first time again
+Barnes,male,brown,30,white,dead,"""first time again"" to ""thank you""",first time again,thank you,3.0,6.0,first time again
+Stacy,female,brown,40,white,dead,"""remember"" to ""jss""",remember,jss,7.0,5.0,remember
+Michael,male,brown,30,white,dead,"""first time again"" to ""jss""",first time again,jss,2.0,6.0,first time again
+Holly,female,blonde,20,white,dead,"""jss""",jss,jss,1.0,6.0,jss
+Erin,female,brown,40,white,dead,"""forget"" to ""jss""",forget,jss,6.0,5.0,forget
+Richards,male,brown,30,white,dead,"""jss""",jss,jss,1.0,6.0,jss
+Shelly Neudermeyer,female,auburn,40,white,dead,"""forget"" to ""jss""",forget,jss,6.0,5.0,forget
+Nicholas,male,brown,40,white,dead,"""remember"" to ""thank you""",remember,thank you,8.0,5.0,remember
+Spencer Monroe,male,brown,30,white,alive,"""forget"" to present",forget,present,20.0,5.0,forget
+Deanna Monroe,female,auburn,50,white,dead,"""remember"" to ""start to finish""",remember,start to finish,13.0,5.0,remember
+Reg Monroe,male,gray,60,white,dead,"""forget"" to ""conquer""",forget,conquer,4.0,5.0,forget
+Aiden Monroe,male,black,30,white,dead,"""remember"" to ""spend""",remember,spend,3.0,5.0,remember
+Ron Anderson,male,light brown,20,white,dead,"""remember"" to ""no way out""",remember,no way out,14.0,5.0,remember
+Jessie Anderson,female,blonde,30,white,dead,"""remember"" to ""no way out""",remember,no way out,14.0,5.0,remember
+Sam Anderson,male,dirty blond,10,white,dead,"""remember"" to ""no way out""",remember,no way out,14.0,5.0,remember
+Pete Anderson,male,blond,30,white,dead,"""remember"" to ""conquer""",remember,conquer,5.0,5.0,remember
+David,male,brown,40,white,dead,"""first time again"" to ""thank you""",first time again,thank you,3.0,6.0,first time again
+Bob Miller,male,gray,70,white,alive,"""remember"" to present",remember,present,21.0,5.0,remember
+Natalie Miller,female,gray,70,white,alive,"""remember"" to present",remember,present,21.0,5.0,remember
+Owen,male,brown,30,white,dead,"""conquer"" to ""no way out""",conquer,no way out,10.0,5.0,conquer
+Edward,male,blond,30,white,dead,"""conquer"" to ""thank you""",conquer,thank you,4.0,5.0,conquer
+Eastman,male,black,50,white,dead,"""here's not here""",here's not here,here's not here,1.0,6.0,here's not here
+Negan,male,black (graying),50,white,alive,"""last day on earth"" to present",last day on earth,present,1.0,6.0,last day on earth
+Simon,male,black (graying),40,white,alive,"""last day on earth"" to present",last day on earth,present,1.0,6.0,last day on earth
+Wade,male,NA,50,white,alive,"""always accountable"" to present",always accountable,present,11.0,6.0,always accountable
+Roman,male,gray,50,white,dead,"""east"" to ""last day on earth""",east,last day on earth,2.0,6.0,east
+Jiro,male,black,20,asian,dead,"""east""",east,east,1.0,6.0,east
+Miles,male,black,30,white,dead,"""east""",east,east,1.0,6.0,east
+Primo,male,bald,40,hispanic,dead,"""not tomorrow yet"" to 'the same boat""",not tomorrow yet,'the same boat,5.0,6.0,not tomorrow yet
+Paula,female,red,30,white,dead,"""not tomorrow yet"" to ""the same boat""",not tomorrow yet,the same boat,2.0,6.0,not tomorrow yet
+Michelle,female,dark brown,30,white,dead,"""the same boat""",the same boat,the same boat,1.0,6.0,the same boat
+Molly,female,gray,60,white,dead,"""the same boat""",the same boat,the same boat,1.0,6.0,the same boat
+Donnie,male,black (greying),40,white,dead,"""the same boat""",the same boat,the same boat,1.0,6.0,the same boat
+Gabe,male,black,30,hispanic,dead,"""not tomorrow yet""",not tomorrow yet,not tomorrow yet,1.0,6.0,not tomorrow yet
+Bud,male,brown (graying),40,white,dead,"""start to finish"" to ""no way out""",start to finish,no way out,2.0,6.0,start to finish
+T.,male,black (shaved),50,white,dead,"""start to finish"" to ""no way out""",start to finish,no way out,2.0,6.0,start to finish
+Dwight,male,blond,30,white,alive,"""always accountable"" to present",always accountable,present,11.0,6.0,always accountable
+Sherry,female,brown,30,white,alive,"""always accountable"" to present",always accountable,present,11.0,6.0,always accountable
+"Paul ""Jesus"" Rovia",male,light brown,30,white,alive,"""the next world"" to present",the next world,present,7.0,6.0,the next world
+Bertie,female,black,30,black,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Harlan Carson,male,brown,40,white,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Freddie,male,brown,30,white,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Kal,male,black,20,asian,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Eduardo,male,black,20,hispanic,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Gregory,male,gray,60,white,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Andy,male,brown,30,white,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Wesley,male,brown,30,white,alive,"""knots untie"" to present",knots untie,present,6.0,6.0,knots untie
+Craig,male,dark brown,30,white,alive,"""not tomorrow yet"" to present",not tomorrow yet,present,5.0,6.0,not tomorrow yet
+Ethan,male,blond,30,white,dead,"""knots untie""",knots untie,knots untie,1.0,6.0,knots untie
+Erin,female,brown,40,white,dead,"""forget"" to ""jss""",forget,jss,6.0,5.0,forget
